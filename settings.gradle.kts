@@ -1,1 +1,1 @@
-rootProject.name = "Navy Blue IntelliJ Theme"
+rootProject.name = "navy-intellij-theme"

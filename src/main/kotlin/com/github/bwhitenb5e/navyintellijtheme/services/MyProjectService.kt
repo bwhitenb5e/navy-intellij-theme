@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.bwhitenb5e.navyintellijtheme.services
 
+import com.github.bwhitenb5e.navyintellijtheme.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
