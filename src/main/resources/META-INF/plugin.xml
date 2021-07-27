@@ -10,6 +10,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <applicationService serviceImplementation="com.github.bwhitenb5e.navyintellijtheme.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.bwhitenb5e.navyintellijtheme.services.MyProjectService"/>
+        <themeProvider id="6abc75da-2366-4845-afc0-ee5e0505c8b0" path="/navy.theme.json"/>
     </extensions>
 
     <applicationListeners>
