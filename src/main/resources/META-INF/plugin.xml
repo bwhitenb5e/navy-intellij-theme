@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>org.jetbrains.plugins.template</id>
-    <name>Template</name>
-    <vendor>JetBrains</vendor>
+    <name>Navy Blue</name>
+    <vendor>BWhite</vendor>
 
     <!-- Product and plugin compatibility requirements -->
     <!-- https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
@@ -10,6 +10,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <applicationService serviceImplementation="org.jetbrains.plugins.template.services.MyApplicationService"/>
         <projectService serviceImplementation="org.jetbrains.plugins.template.services.MyProjectService"/>
+        <themeProvider id="db7d0342-dea3-4243-aa70-8de7ed40754c" path="/navy.theme.json"/>
     </extensions>
 
     <applicationListeners>
