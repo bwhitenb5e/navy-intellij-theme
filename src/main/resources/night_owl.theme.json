@@ -1,0 +1,46 @@
+{
+  "name": "night-owl-native",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/night_owl_native.xml",
+  "ui": {
+    "*": {
+      "background": "#011627",
+      "foreground": "#D7DBE0",
+      "selectionBackground": "#2E3250",
+      "selectionForeground": "#D7DBE0",
+      "selectionInactiveBackground": "#2E3250",
+      "selectionBackgroundInactive": "#011627",
+      "errorForeground": "#EF5350"
+    },
+    "EditorTabs": {
+      "selectedBackground": "#0B2942",
+      "borderColor": "#181a1f",
+      "underlineColor": "#093A62",
+      "inactiveMaskColor": "#282c34"
+    },
+    "Borders.color": "#181a1f",
+    "Borders.ContrastBorderColor": "#181a1f",
+    "Menu.background": "#011627",
+    "Menu.disabledBackground": "#011627",
+
+    "ToolWindow": {
+      "Header": {
+        "background": "#011627",
+        "inactiveBackground": "#011627"
+      },
+      "Button": {
+        "hoverBackground": "#011627",
+        "selectedBackground": "#2E3250",
+        "selectedForeground": "#D7DBE0"
+      }
+    },
+    "PopupMenu": {
+      "borderWidth": 0,
+      "background": "#3a3f4b"
+    },
+    "FileColor": {
+      "Yellow": "#21252b"
+    }
+  }
+}
